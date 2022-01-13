@@ -88,17 +88,3 @@ document.addEventListener("DOMContentLoaded", function () {
     })
 
 })
-
-// let links = document.getElementsByClassName("link");
-
-      
-      // let movieDetails = `id="movie" href="http://www.omdbapi.com">${Search.imdbID}`
-      // let example = "tt0372784"
-
-      // link.addEventListener("click", (event) => {
-      //   event.preventDefault()
-      //   // fetch(`http://www.omdbapi.com/?${movieDetails}&apikey=522b0d78`)
-      //   fetch(`http://www.omdbapi.com/?i=${example}&apikey=522b0d78`)
-      //     .then(response => response.json())
-      //     .then(data => console.log(data))
-      // })
