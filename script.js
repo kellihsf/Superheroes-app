@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
               const movieDetailsElement = document.createElement('div')
               movieDetailsElement.className = "movie-container"
-              movieDetailsElement.style.height = '400px'
+              movieDetailsElement.style.height = '50%'
               movieDetailsElement.style.width = '90%'
               movieDetailsElement.style.border = 'solid 1px black'
               movieDetailsElement.style.margin = 'auto'
